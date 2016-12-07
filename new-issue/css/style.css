@@ -1,0 +1,46 @@
+header {
+  dispaly:inline-block;
+  text-align:center;
+  margin: 0 auto;
+}
+
+header .date{
+  float:right;
+  margin: 10px 0;
+}
+
+header h2 {
+  margin: 10px auto;
+  padding:0;
+  width: 300px;
+  font-size: 10px;
+}
+
+header h1 {
+  margin: 0 auto;
+  width: 300px;
+}
+
+.localnews,
+.culture,
+.sport,
+.weather {
+  float: left;
+  width: 24%;
+  min-height: 250px;
+  border: 2px solid black;
+  box-sizing: border-box;
+  margin: 5px;
+}
+
+main {
+  width: 100%;
+}
+
+footer {
+  clear:both;
+}
+
+a {
+  display:block;
+}
