@@ -1,3 +1,8 @@
+Project done by
+    1. Yisheng
+    2. Dax
+    3. Sharona
+
 # Learn Git Newsroom Style
 
 Hey, gumshoe. You're a reporter now. If you want to make it on this job you've
@@ -29,7 +34,7 @@ snappy! News never stops!
 ## Editor in Chief
 
 Your responsible to review pull requests and make sure the paper stays in order.
-You should be the one that forks this repo once, and everyone else should fork 
+You should be the one that forks this repo once, and everyone else should fork
 from your repo to make pull requests easier.
 
 Don't approve any pull requests that don't merge! If something doesn't merge
